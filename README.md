@@ -49,7 +49,7 @@ Teach beginners how to build a professional dashboard using Power BI by analyzin
 - Data modeling | نمذجة البيانات  
 - Using slicers and filters | استخدام الفلاتر والمحددات  
 - Visualization best practices | أفضل ممارسات التصوير البياني  
-- Optional DAX measures | مقاييس DAX (اختياري)
+- Optional DAX measures | مقاييس DAX 
 
 ---
 
@@ -75,9 +75,7 @@ Teach beginners how to build a professional dashboard using Power BI by analyzin
 2. Open it with **Power BI Desktop**  
    افتحه باستخدام برنامج Power BI Desktop  
 3. Explore and modify the visuals  
-   تصفح الرسوم البيانية وحاول تعديلها  
-4. Replace data to build your own version  
-   استبدل البيانات لتصميم نسختك الخاصة  
+   تصفح الرسوم البيانية وحاول تعديلها 
 
 ---
 

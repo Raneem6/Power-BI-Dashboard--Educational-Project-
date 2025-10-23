@@ -84,4 +84,4 @@ Teach beginners how to build a professional dashboard using Power BI by analyzin
 **EN:**  
 The data used here is fictional or sample data for learning purposes.  
 **AR:**  
-البيانات المستخدمة هنا وهمية أو تجريبية لغرض التعلم فقط، وليست للاستخدام التجاري.
+البيانات المستخدمة هنا وهمية أو تجريبية لغرض التعلم فقط، وليست للاستخدام التجاري .
